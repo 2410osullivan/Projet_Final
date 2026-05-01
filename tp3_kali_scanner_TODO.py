@@ -9,7 +9,7 @@ TP3 - Mini Scanner
 
 À FAIRE (4 TODO) :
   1) timestamp()   → retourner AAAAMMJJ_HHMMSS
-  2) check_nmap()  → True si nmap est trouvé, sinon False
+  2) check_nmap()  → True si nmap est trouvé, sinon False Fait par Takam Abdel 
   3) allowed_target(t) → autoriser seulement localhost/127.0.0.1/::1
   4) options custom → .split() la chaîne saisie
 """
